@@ -1,7 +1,7 @@
 Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)mi nombre es Josh Trejo
 ==================================================================================================================================
 
-Estudiante de Ingeniería en Computación.
+Estudiante de Ingeniería en Computación en la UNAM.
 ----------------------------------------
 
 Actualmente estudiante de la FES Aragón y aunado a mis clases académicas, aprendo por mi cuenta a través de cursos en linea y certificaciones. Mi meta es ser desarrollador de software.
