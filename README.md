@@ -1,16 +1,15 @@
 Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)mi nombre es Josh Trejo
 ==================================================================================================================================
 
-Estudiante de Ingeniería en Computación en la UNAM.
+Egresado de Ingeniería en Computación en la UNAM.
 ----------------------------------------
 
-Actualmente estudiante de la FES Aragón y aunado a mis clases académicas, aprendo por mi cuenta a través de cursos en linea y certificaciones. Mi meta es ser desarrollador de software.
+Actualmente desarrollador java jr. en [Grupo Financiero Inbursa](https://www.inbursa.com/Portal/?id_category=1), también aprendo por mi cuenta a través de cursos en linea y creando proyectos personales. Mi meta es ser crecer día con día como desarrollador de software.
 
 * 🌍  Resido en México.
 * ✉️  Puedes contactarme a través de [joshuatrejo18@aragon.unam.mx](mailto:joshuatrejo18@aragon.unam.mx)
 * 🧠  Estoy aprendiendo Programación en distintos lenguajes.
 * 🤝  Estoy abierto a colaborar con cualquier persona.
-* ⚡  Welcome to the soldier side...
 
 <a href="https://www.twitter.com/jorgejoshuat" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/jorgejoshuat?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
