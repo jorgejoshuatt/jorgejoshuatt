@@ -4,7 +4,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Egresado de Ingeniería en Computación en la UNAM.
 ----------------------------------------
 
-Actualmente analista de ciberseguridad, también aprendo por mi cuenta desarrollo de softwarw a través de cursos en linea y creando proyectos personales. Mi meta es crecer día con día como desarrollador de software.
+Actualmente analista de ciberseguridad, también aprendo por mi cuenta desarrollo de software a través de cursos en linea y creando proyectos personales. Mi meta es crecer día con día como desarrollador de software.
 
 * 🌍  Resido en México.
 * ✉️  Puedes contactarme a través de [joshuatrejo18@aragon.unam.mx](mailto:joshuatrejo18@aragon.unam.mx)
